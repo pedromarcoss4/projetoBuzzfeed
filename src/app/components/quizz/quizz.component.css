@@ -1,0 +1,20 @@
+.quizz_container {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    
+    border-radius: 30px;
+   
+    
+}
+
+.quizz_logo{
+    
+}
+.btn-option{
+    width: 50% ;
+    color: black;
+    border-color:rgb(75, 128, 0);
+    border-radius: 15px;
+
+}

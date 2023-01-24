@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    
+    color: antiquewhite;
+}
+body{
+    background-color: #1F1147;
+    background-image: url("C:\Users\pedro\OneDrive\Área de Trabalho\programar\clone do buzzFeed\projeto-buzzfeed\src\assets\imgs\fundo.png");
+    background-size: cover;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
